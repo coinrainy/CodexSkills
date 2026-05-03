@@ -1,0 +1,4 @@
+interface:
+  display_name: "GNN实验复盘"
+  short_description: "分析GNN实验并规划下一批实验。"
+  default_prompt: "Use $gnn-experiment-review，分析我最新一批GNN实验结果，并给出下一批实验建议。"

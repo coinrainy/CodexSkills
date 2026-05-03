@@ -1,0 +1,4 @@
+interface:
+  display_name: "GNN想法实验室"
+  short_description: "生成并排序可信的GNN研究想法。"
+  default_prompt: "Use $gnn-idea-lab，围绕一个GNN项目提出下一步值得尝试的想法，并按收益与风险排序。"
