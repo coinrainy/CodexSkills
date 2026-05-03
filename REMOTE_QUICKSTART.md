@@ -7,9 +7,14 @@
 
 ## 情况 1：服务器还没装 Codex
 
-先完成 Codex 的官方安装与登录。
+先安装并登录 Codex：
 
-完成后进入下面流程。
+```bash
+npm install -g @openai/codex
+codex --login
+```
+
+完成后继续下面流程。
 
 ## 情况 2：Codex 已可用，但还没接入 skills
 
