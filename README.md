@@ -2,6 +2,8 @@
 
 这是我自定义的 Codex skills 仓库，主要面向 GNN / GCL 论文复现、原始仓库跑通、实验复盘和研究 idea 生成。
 
+快速上手见 [REMOTE_QUICKSTART.md](./REMOTE_QUICKSTART.md)。
+
 ## 当前包含的 skills
 
 - `gnn-paper-reproduction`
