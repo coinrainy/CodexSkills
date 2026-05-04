@@ -1,4 +1,0 @@
-interface:
-  display_name: "GNN仓库执行器"
-  short_description: "把原始GNN仓库跑通并完整留痕。"
-  default_prompt: "Use $gnn-repo-runner，检查一个GNN仓库、尽快跑通最小可执行实验、修复阻塞问题，并记录完整运行过程。"

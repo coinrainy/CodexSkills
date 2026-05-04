@@ -1,4 +1,0 @@
-interface:
-  display_name: "GNN论文复现"
-  short_description: "分双文档记录论文结果与复现背景，再跑通并分析 GNN 论文复现。"
-  default_prompt: "Use $gnn-paper-reproduction，先创建结果文档和背景文档两份复现笔记，再提取并记录论文中的目标实验结果，检查论文或代码中的参数设置并分别写入对应文档，然后跑通主实验、修复阻塞并分析结果差距。"
