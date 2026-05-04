@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCL 论文雷达"
+  short_description: "每周检索、去重并整理 GCL 相关论文"
+  default_prompt: "Use $gcl-paper-radar，请检索近三年图对比学习及可迁移的 CV 对比学习论文，先与 literature_pipeline/state/master_papers.csv 去重，再输出更适合后续 idea 生成的 richer paper cards 与本周 digest。"

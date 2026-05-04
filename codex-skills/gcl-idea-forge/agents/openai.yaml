@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCL Idea Forge"
+  short_description: "把新论文批次转成可执行的 GCL idea sprint"
+  default_prompt: "Use $gcl-idea-forge，请默认读取本周尚未进入 idea sprint 的新论文，强制输出论文证据链、机制迁移链和 feasibility gate，只保留可执行的 3 到 5 个 idea，并写入下一期本地 Markdown 文件。"

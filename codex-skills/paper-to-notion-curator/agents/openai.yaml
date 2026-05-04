@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文到 Notion 整理器"
+  short_description: "把论文卡片去重后同步到 Notion"
+  default_prompt: "Use $paper-to-notion-curator，请先检查 Notion 中是否已存在这些论文，再把 literature_pipeline/paper_cards/ 中的新增论文同步到 Notion，并回写 notion_page_id。"
